@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dukascopy-python>=4.0.1",
+    "openpyxl>=3.1.5",
     "yfinance>=1.2.0",
 ]
